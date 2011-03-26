@@ -14,11 +14,13 @@ Include the appropriate scripts in the **head** of your HTML document.
 Usage
 -----
 
-It's extreme easy. Just call the `autoclear` function.
+It's extremely easy. Just call the `autoclear` function.
 
 	$(document).ready(function(){
 		$("input[type=text]").autoclear();
 	});
+
+That's all folks.
 
 License
 -------
